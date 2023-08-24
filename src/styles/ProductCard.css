@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 5%;
+    padding-right: 5%;
+    justify-content: center;
+}
+.productsCard{
+    margin:2%;
+    background-color:aliceblue;
+    text-decoration: none;
+}

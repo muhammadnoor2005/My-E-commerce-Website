@@ -1,0 +1,31 @@
+.formParentDiv{
+    display: flex;
+    justify-content: center;
+    border:solid 1px transparent;
+    border-radius:8px;
+    width:320px;
+    box-shadow: 1px 2px 10px -1px black;
+    position: absolute;
+    top: 50%;
+    left:22%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(183, 210, 207)
+}
+.formHr{
+    width: 80%;
+    background-color: black;
+}
+.grandDiv{
+    min-height: 100vh;
+    background-image: url(/images/img.jpg);
+    background-size:cover ;
+    background-position: center center;
+}
+.logoImg{
+    height: 120px;
+    width: 220px;
+    position: absolute;
+    top:-4vh;
+    left:2vh;
+    color:rgb(240, 248, 255)
+}

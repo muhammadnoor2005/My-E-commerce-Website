@@ -1,0 +1,197 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "href": "#",
+      "imageSrc": "/images/product-01.jpg",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 76,
+      "color": "Black",
+      "count":1
+    },
+    {
+      "id": 2, 
+      "name": "V Neck Tee",
+      "href": "#",
+      "imageSrc": "/images/product-01.jpg",
+      "imageAlt": "Front of women's V-Neck Tee in white.",
+      "price": 90,
+      "color": "White" ,
+      "count":1
+    },
+    {
+      "id": 3,
+      "name": "Hoodie",
+      "href": "#",
+      "imageSrc": "/images/product-01.jpg",
+      "imageAlt": "Front of men's Hoodie in gray.",
+      "price": 76,
+      "color": "Gray",
+      "count":1
+    },
+    {
+        "id": 4,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 45,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 5,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 12,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 6,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 34,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 7,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 10,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 8,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 87,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 9,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 23,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 10,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 95,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 11,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 76,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 12,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 20,
+        "color": "Gray",
+        "count":1
+      },
+      {
+        "id": 13,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 105,
+        "color": "Gray",
+        "count":1
+      },{
+        "id": 14,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 90,
+        "color": "Gray",
+        "count":1
+      },{
+        "id": 15,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 60,
+        "color": "Gray",
+        "count":1
+      },{
+        "id": 16,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 50,
+        "color": "Gray",
+        "count":1
+      },{
+        "id": 17,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 50,
+        "color": "Gray",
+        "count":1
+      },{
+        "id": 18,
+        "name": "Hoodie",
+        "href": "#",
+        "imageSrc": "/images/product-01.jpg",
+        "imageAlt": "Front of men's Hoodie in gray.",
+        "price": 50,
+        "color": "Gray",
+        "count":1
+      },
+    {
+      "id": 19,
+      "name": "Jeans",
+      "href": "#",
+      "imageSrc": "/images/product-01.jpg",
+      "imageAlt": "Pair of blue jeans.",
+      "price": 75,
+      "color": "Blue",
+      "count":1
+    },
+    {
+      "id": 20,
+      "name": "Sneakers",
+      "href": "#",
+      "imageSrc": "/images/product-01.jpg",
+      "imageAlt": "Pair of black sneakers.",
+      "price": 150,
+      "color": "Black",
+      "count":1
+    }
+]

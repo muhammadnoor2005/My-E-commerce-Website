@@ -1,0 +1,50 @@
+.headerDivProPage{
+    position: fixed;
+    top: 0px;
+    width: 95%;
+    z-index: 999;
+    display:flex;
+    justify-content:space-between;
+    padding-left:3%;
+    padding-right: 3%;
+    align-items: center;
+    background-color: rgb(227, 222, 214);
+    height: auto;
+}
+.productImgDiv{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    background-color: aliceblue;
+    border-radius: 10px; 
+    box-shadow: 1px 2px 10px -1px black;
+
+}
+.productDescDiv{
+    margin: 3%;
+    
+    display: flex;
+}
+.productHighlightsDiv{
+    border-right: solid rgb(227, 222, 214) 2px;
+    width:60%;
+    padding-right:2% ;
+}
+.productPriceColorDiv{
+    padding: 3%;
+    min-width:30%;
+}
+.productSizes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(198, 198, 198);
+    border-radius: 5px;
+    background-color: rgb(249, 249, 249);
+    font-weight: 500;
+    min-width :12%;
+    min-height: 7vh;
+    margin-left:2% ;
+    margin-right: 2%;
+    cursor: pointer;
+}

@@ -1,0 +1,49 @@
+.menuImg{
+    position: absolute;
+    left:20px;
+   
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    background-color: rgb(227, 222, 214);
+    color: rgb(13, 78, 134)
+}
+.searchBox{
+    width: 18%;
+    position: absolute;
+    right: 25vh;
+    top:10px;
+}
+.userIcon{
+    position: absolute;
+    right:10vh ;
+    top:10px;
+    width:20px;
+    height:30px;
+    color: rgb(13, 78, 134);
+    cursor: pointer;
+}
+.cartIcon{
+    position: absolute;
+    right:16vh ;
+    top:10px;
+    width:20px;
+    height:30px;
+    color: rgb(13, 78, 134);
+    cursor: pointer;
+}
+.menuDiv{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 999;
+}
+.cartItemCount{
+    position: absolute;
+    right:19.4vh;
+    top:14px;
+    font-size: 14px;
+    color: rgb(89, 89, 89);
+}

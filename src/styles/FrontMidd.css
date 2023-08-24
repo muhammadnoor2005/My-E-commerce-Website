@@ -1,0 +1,38 @@
+.frontBg{
+    background-image: url(/images/imgBg.jpg);
+    background-size: cover;
+    height:auto;
+    width:auto;
+    margin-top: 50px;
+    
+}
+.person1Img{
+    height:75vh;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.mensColl{
+    position: absolute;
+    width: 300px;
+    top: 15vh;
+    right:30%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mensCollHead{
+    color:rgb(141, 237, 226);
+}
+.shopIsFun{
+    color:whitesmoke;
+    font-size:20px;
+}
+.mensColDet{
+    font-size: 15px;
+    color: rgb(206, 206, 206);
+}
+.button{
+    color:aliceblue;
+    background-color: rgb(7, 22, 72);
+    margin-top:20px ;
+    border-radius: 15px;
+    padding-bottom: 7px;
+}

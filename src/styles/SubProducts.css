@@ -1,0 +1,11 @@
+.subProducts{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+}
+.saleCard{
+    margin: 3%;
+    width: auto;
+    text-align: center;
+    background-color: aliceblue;
+}
